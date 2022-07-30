@@ -399,7 +399,7 @@ input[type=range]:focus::-ms-fill-upper {
 .pause {
   box-sizing: content-box;
   z-index: 10;
-  border: .7em solid var(--primary);
+  border: .5em solid var(--primary);
   height: 10em;
   width: 10em;
   background-color: var(--ternary);
