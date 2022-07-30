@@ -400,8 +400,8 @@ input[type=range]:focus::-ms-fill-upper {
   box-sizing: content-box;
   z-index: 10;
   border: .7em solid var(--primary);
-  height: 12.5em;
-  width: 12.5em;
+  height: 10em;
+  width: 10em;
   background-color: var(--ternary);
   border-radius: 250px;
   position: relative;
